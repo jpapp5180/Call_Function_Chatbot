@@ -1,3 +1,7 @@
+# This definetely worked at one point in the past, but I haven't touched this code in years and 
+# I can't get it running on my machine, so no promises it will work for you.  Also I 
+# deleted the API-key for security so you'll need to put your own to run the script.
+
 from ast import Break
 import openai
 import json
